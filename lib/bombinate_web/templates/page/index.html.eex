@@ -1,0 +1,4 @@
+<div class="container">
+ <a class="btn btn-success" href="/users/new">Create User Account</a>
+ <a class="btn btn-info" href="/users">List All Users</a>
+</div>
